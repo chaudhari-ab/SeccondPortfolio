@@ -868,7 +868,7 @@ input[type="password"], textarea {
     -ms-flex: 0 0 8.33333%;
     -webkit-box-flex: 0;
     flex: 0 0 8.33333%;
-    max-width: 8.33333%;
+    max-width: 10%;
 }
 
 .large-2 {
@@ -4718,4 +4718,8 @@ input[type="button"].btn--primary:focus {
   .row1 > div {
     /* width: 350px; */
     display: inline-block;
+  }
+
+.m2em{
+    margin: 0rem;
   }
